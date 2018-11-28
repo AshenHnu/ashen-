@@ -1,0 +1,90 @@
+body{
+    background-color: rgb(245, 247, 248)
+}
+.head{
+    text-align: center;
+    display: inline;
+    color: black;
+    font-size: 20px;
+    font-weight: 1000;
+}
+.head-dh{
+    vertical-align:middle; 
+}
+.head-dh-fl{
+    display: inline;
+    float: right;
+    margin-top: 15px;
+}
+.head-dh-fl li{
+    list-style-type: none;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.head-dh-fl-xj2{
+    float: right;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-bottom: 20px;
+}
+.head-dh-fl li a:link,a:visited{
+    font-weight: bold;
+    color: black;
+    background-color:rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+.head-dh-fl li a:hover,a:active{
+    background-color:rgb(157, 222, 248);
+}
+.head-dh-fl-xj2 a{
+    background: rgb(245, 247, 248)
+    color: rgb(0, 0, 0);
+    padding: 8px;
+    text-decoration: none;
+}
+.head-dh-fl-xj2 a:hover,a:active{
+    background-color: rgb(255, 255, 255);
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.picture1{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 130px;
+    background: url(f3d3503918fc129.jpg) no-repeat 0 center;
+    background-size: 100%;
+}
+.p11{
+    font-size: 40px;
+    color: rgb(255, 234, 43);
+}
+.p12{
+    color: black;
+}
+.ks a{
+    background: rgb(255, 0, 0);
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-decoration: none;
+}
+.ks a:hover,a:active{
+    background-color: rgb(57, 195, 236);
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.p31{
+    font-size: 25px;
+}
+.p32{
+    color: white;
+}
+div.picture3{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 130px;
+    background: url(chengshi.jpg) no-repeat 0 center;
+    background-size: 100%;
+}
